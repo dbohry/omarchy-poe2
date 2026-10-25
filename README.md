@@ -13,6 +13,12 @@ are not covered by the license below.
 ## Installation
 
 ```bash
+omarchy theme install https://github.com/dbohry/omarchy-poe2.git
+```
+
+Or, from within an existing checkout:
+
+```bash
 omarchy theme set path-of-exile
 ```
 
